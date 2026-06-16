@@ -6,6 +6,7 @@ import { usePathname } from "next/navigation";
 const navItems = [
   { href: "/populace", label: "Release summary" },
   { href: "/populace/targets", label: "Target diagnostics" },
+  { href: "/populace/reforms", label: "Reform validation" },
   { href: "/populace/compare", label: "Compare versions" },
 ];
 
